@@ -1,0 +1,78 @@
+# ================================================
+# GENERAL
+# ================================================
+
+# Ignore IDEs
+.idea
+
+# Ignore OS files
+.DS_Store
+
+# Packages
+*.tgz
+
+# Secrets path
+.secrets/
+
+# General reports
+/report
+/reports
+.dccache
+
+# Dot env
+.env
+
+# Others
+*.pdf
+*.psi
+*.log
+*.out
+*.ps
+*.dvi
+*.aux
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# ================================================
+# VSCODE
+# ================================================
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# ================================================
+# ASTRO BUILD
+# ================================================
+
+# build output
+dist/
+
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# jetbrains setting folder
+.idea/
