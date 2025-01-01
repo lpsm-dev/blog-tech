@@ -38,6 +38,7 @@ Olá, meu nome é Lucca! Nesse repositório estarei organizando meu blog pessoal
 Links relevantes para essa documentação:
 
 - [Astro Build](https://astro.build/)
+- [Tailwindcss](https://tailwindcss.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
