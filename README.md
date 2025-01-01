@@ -3,7 +3,7 @@
 
 <div align="center">
 
-**Personal Resume**
+**Blog Tech**
 
 <img alt="image-header" src="" width="225"/>
 
