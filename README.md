@@ -8,6 +8,7 @@
 <img alt="image-header" src="https://github.com/lpsm-dev/lpsm-dev/blob/main/.github/assets/obsidian.png" width="225"/>
 
 <br>
+<br>
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://www.conventionalcommits.org/en/v1.0.0/)
 [![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://semantic-release.gitbook.io/semantic-release/usage/configuration)
