@@ -32,7 +32,7 @@ Nesse projeto, estruturo meu blog pessoal com conteúdos sobre tecnologia e prod
 
 # Visão Geral
 
-Olá, meu nome é Lucca! Nesse repositório estarei organizando meu blog pessoal com conteúdos sobre tecnologia, programação e DevOps. A ideia é que eu possa compartilhar conhecimento e experiências com a comunidade.
+Olá, meu nome é Lucca! Nesse repositório estarei organizando meu blog pessoal com conteúdos sobre tecnologia e produtividade. A ideia é que eu possa compartilhar conhecimento e experiências com a comunidade.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
